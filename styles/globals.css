@@ -139,7 +139,7 @@ label.label input[type="file"] {
 }
 .label {
   cursor: pointer;
-  width: 13rem;
-  height: 13rem;
+  width: 12rem;
+  height: 12rem;
   padding: 5px 15px;
 }
